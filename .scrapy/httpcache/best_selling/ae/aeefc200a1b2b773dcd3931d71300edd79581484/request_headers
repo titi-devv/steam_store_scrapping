@@ -1,0 +1,8 @@
+X-Requested-With: XMLHttpRequest
+X-Prototype-Version: 1.7
+Referer: https://store.steampowered.com/search/results/?query&start=2000&count=50&dynamic_data=&sort_by=_ASC&supportedlang=french&snr=1_7_7_7000_7&filter=topsellers&infinite=1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/2.9.0 (+https://scrapy.org)
+Accept-Encoding: gzip, deflate
+Cookie: steamCountry=FR%7C2a3f0c415d5baef0d4a6b4c4a863df36; sessionid=56fe73618706da5ee06fa549

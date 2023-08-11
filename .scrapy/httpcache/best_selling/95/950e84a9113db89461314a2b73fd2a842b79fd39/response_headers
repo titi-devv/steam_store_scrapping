@@ -1,0 +1,14 @@
+Content-Length: 42772
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Cache-Control: no-cache
+Content-Security-Policy: default-src blob: data: https: 'unsafe-inline' 'unsafe-eval'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://store.cloudflare.steamstatic.com/ https://store.cloudflare.steamstatic.com/ https://recaptcha.net https://www.google.com/recaptcha/ https://www.gstatic.cn/recaptcha/ https://www.gstatic.com/recaptcha/ https://www.youtube.com/ https://s.ytimg.com; object-src 'none'; connect-src 'self' http://store.steampowered.com https://store.steampowered.com http://127.0.0.1:27060 ws://127.0.0.1:27060 https://community.cloudflare.steamstatic.com/ https://steamcommunity.com/ https://steamcommunity.com/ wss://community.steam-api.com/websocket/ https://api.steampowered.com/ https://login.steampowered.com/ https://help.steampowered.com/ https://steam.tv/ https://shared.cloudflare.steamstatic.com/ https://checkout.steampowered.com/; frame-src 'self' steam:  http://www.youtube.com https://www.youtube.com https://www.google.com https://sketchfab.com https://player.vimeo.com https://steamcommunity.com/ https://login.steampowered.com/ https://help.steampowered.com/ https://www.google.com/recaptcha/ https://recaptcha.net/recaptcha/; frame-ancestors 'none';
+X-Frame-Options: DENY
+Vary: Accept-Encoding, Origin
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=300
+Date: Fri, 11 Aug 2023 10:40:04 GMT
+Set-Cookie: steamCountry=FR%7C2a3f0c415d5baef0d4a6b4c4a863df36; Path=/; Secure; HttpOnly; SameSite=None
+Set-Cookie: sessionid=35192f472e243e12d5bfd509; Path=/; Secure; SameSite=None
